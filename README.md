@@ -8,7 +8,7 @@ Python script that use the Telegram Client API to get all basic usefull data of 
 
 3 - Then, you are free to execute "telegram_scrapper.py" file to export the chat data from the "CHAT_LINK" provided: python telegram_scrapper.py
 
-# Point to note
+# Points to note
 1.The first time that you run the script, it requests a "Sign-in Code", to Telegram client API service, and wait for the user to input that code.
 
 2.The "Sign-in Code" will be sent by "Telegram Service Notifications" account, and it can be read from any Telegram Android/IOS/Desktop App.
