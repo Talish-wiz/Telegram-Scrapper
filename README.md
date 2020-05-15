@@ -4,7 +4,7 @@ Python script that use the Telegram Client API to get all basic usefull data of 
 # How to use
 1 - First, you need a Telegram Client-API ID and Application Hash. You can get them by login and creating a new "App" in: https://my.telegram.org
 
-2 - Next, you have to set "API_ID", "API_HASH", "PHONE_NUM" and "CHAT_LINK" (chat that you want to export the data) in "tlg_exportdata.py" file.
+2 - Next, you have to set "API_ID", "API_HASH", "PHONE_NUM" and "CHAT_LINK" (chat that you want to export the data) in "telegram_scrapper.py" file.
 
 3 - Then, you are free to execute "telegram_scrapper.py" file to export the chat data from the "CHAT_LINK" provided: python telegram_scrapper.py
 
